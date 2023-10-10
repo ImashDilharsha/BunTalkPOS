@@ -1,0 +1,421 @@
+           ishh           Chicken Samosa       Rs150.00       x0        Rs   0.00
+           ishh                        0       Rs8.90068e-308.00       x2        Rs1.78014e-307.00
+           ishh                        0       Rs  0.00       x0        Rs   0.00
+           ishd           Chicken Burger       Rs400.00       x1        Rs 400.00
+           ishd                        0       Rs8.90068e-308.00       x2        Rs1.78014e-307.00
+           ishd                        0       Rs  0.00       x0        Rs   0.00
+           ishd                     0000       Rs9.84387e-315.00       x0        Rs   0.00
+           ishd                     0000       Rs2.33647e-307.00       x0        Rs   0.00
+           ishd                        0       Rs  0.00       x0        Rs   0.00
+           ishd                       00       Rs  0.00       x0        Rs   0.00
+           ishd                        0       Rs-8.44693e+306.00       x0        Rs  -0.00
+           shan           Chicken Burger       Rs400.00       x1        Rs 400.00
+           shan                        0       Rs8.06632e-308.00       x1        Rs8.06632e-308.00
+           shan                        0       Rs  0.00       x0        Rs   0.00
+           shan                        0       Rs  0.00       x0        Rs   0.00
+          shaka            Mutton Burger       Rs450.00       x2        Rs 900.00
+          shaka             Jumbo Hotdog       Rs250.00       x3        Rs 750.00
+          shaka                        0       Rs  0.00       x2        Rs   0.00
+            dol             Garlic Bread       Rs250.00       x3        Rs 750.00
+            dol                        0       Rs8.06632e-308.00       x0        Rs   0.00
+       superman           Chicken Burger       Rs400.00       x5        Rs2000.00
+       superman             Jumbo Hotdog       Rs250.00       x5        Rs1250.00
+       superman            Choco Brownie       Rs300.00       x5        Rs1500.00
+       superman                Croissant       Rs200.00       x2        Rs 400.00
+       superman                        0       Rs  0.00       x0        Rs   0.00
+         batman           Chicken Burger       Rs400.00       x2        Rs 800.00
+         batman           Chicken Samosa       Rs150.00       x3        Rs 450.00
+         batman           Choco Lavacake       Rs150.00       x6        Rs 900.00
+         batman                Croissant       Rs200.00       x5        Rs1000.00
+         batman             Garlic Bread       Rs250.00       x7        Rs1750.00
+         batman         Chicken Shavarma       Rs650.00       x9        Rs5850.00
+                                                                        ___________Rs10750.00
+
+           mash           Chicken Burger       Rs400.00       x2        Rs 800.00
+           mash            Mutton Burger       Rs450.00       x3        Rs1350.00
+           mash                Croissant       Rs200.00       x1        Rs 200.00
+                                                                        ___________Rs2350.00
+
+           dila             Jumbo Hotdog       Rs250.00       x5        Rs1250.00
+           dila            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           dila                Croissant       Rs200.00       x6        Rs1200.00
+           dila           Choco Lavacake       Rs150.00       x7        Rs1050.00
+           dila              Choco Donut       Rs180.00       x4        Rs 720.00
+           dila                  Cupcake       Rs150.00       x3        Rs 450.00
+                                                                        ___________Rs5270.00
+
+            dil            Choco Brownie       Rs300.00       x8        Rs2400.00
+            dil            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            dil             Jumbo Hotdog       Rs250.00       x8        Rs2000.00
+            dil                  Egg Bun       Rs100.00       x6        Rs 600.00
+            dil      Seafood Pizza Slice       Rs300.00       x8        Rs2400.00
+            dil                  Cupcake       Rs150.00       x6        Rs 900.00
+            dil             Garlic Bread       Rs250.00       x9        Rs2250.00
+            dil                Croissant       Rs200.00       x9        Rs1800.00
+            dil             Choco Muffin       Rs160.00       x5        Rs 800.00
+                                                                        ___________Rs13750.00
+
+           mash           Chicken Samosa       Rs150.00       x5        Rs 750.00
+           mash         Chicken Shavarma       Rs650.00       x7        Rs4550.00
+           mash           Choco Lavacake       Rs150.00       x9        Rs1350.00
+           mash                  Egg Bun       Rs100.00       x4        Rs 400.00
+                                                                        ___________Rs7050.00
+
+          kamal            Salmon Samosa       Rs100.00       x7        Rs 700.00
+          kamal         Chicken Shavarma       Rs650.00       x8        Rs5200.00
+          kamal         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+          kamal                  Egg Bun       Rs100.00       x3        Rs 300.00
+          kamal                Croissant       Rs200.00       x3        Rs 600.00
+          kamal             Garlic Bread       Rs250.00       x9        Rs2250.00
+          kamal             Garlic Bread       Rs250.00       x5        Rs1250.00
+          kamal         Chicken Shavarma       Rs650.00       x7        Rs4550.00
+          kamal           Chicken Samosa       Rs150.00       x9        Rs1350.00
+                                                                        ___________Rs18200.00
+
+          kasun             Jumbo Hotdog       Rs250.00       x4        Rs1000.00
+          kasun         Chicken Shavarma       Rs650.00       x7        Rs4550.00
+          kasun           Choco Lavacake       Rs150.00       x6        Rs 900.00
+          kasun           Chicken Samosa       Rs150.00       x6        Rs 900.00
+          kasun                  Egg Bun       Rs100.00       x4        Rs 400.00
+          kasun      Seafood Pizza Slice       Rs300.00       x5        Rs1500.00
+          kasun                  Cupcake       Rs150.00       x7        Rs1050.00
+          kasun                Croissant       Rs200.00       x9        Rs1800.00
+                                                                        ___________Rs12100.00
+
+         hashan            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         hashan            Choco Brownie       Rs300.00       x8        Rs2400.00
+         hashan           Chicken Samosa       Rs150.00       x5        Rs 750.00
+         hashan         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+                                                                        ___________Rs5750.00
+
+          masha            Salmon Samosa       Rs100.00       x3        Rs 300.00
+          masha         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+          masha         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+          masha           Choco Lavacake       Rs150.00       x6        Rs 900.00
+          masha             Garlic Bread       Rs250.00       x3        Rs 750.00
+          masha             Choco Muffin       Rs160.00       x52        Rs8320.00
+          masha     Saussage Pizza Slice       Rs250.00       x32        Rs8000.00
+          masha                Croissant       Rs200.00       x65        Rs13000.00
+          masha             Choco Muffin       Rs160.00       x25        Rs4000.00
+          masha             Garlic Bread       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs40220.00
+
+         paltha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         paltha             Jumbo Hotdog       Rs250.00       x6        Rs1500.00
+         paltha           Chicken Samosa       Rs150.00       x6        Rs 900.00
+         paltha         Chicken Sandwich       Rs250.00       x3        Rs 750.00
+         paltha                Croissant       Rs200.00       x36        Rs7200.00
+         paltha             Garlic Bread       Rs250.00       x53        Rs13250.00
+                                                                        ___________Rs24200.00
+
+          shana            Choco Brownie       Rs300.00       x6        Rs1800.00
+          shana           Chicken Samosa       Rs150.00       x5        Rs 750.00
+          shana           Choco Lavacake       Rs150.00       x4        Rs 600.00
+          shana            Salmon Samosa       Rs100.00       x4        Rs 400.00
+          shana           Choco Lavacake       Rs150.00       x5        Rs 750.00
+                                                                        ___________Rs4300.00
+
+           bada            Salmon Samosa       Rs100.00       x4        Rs 400.00
+           bada         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+           bada            Mutton Burger       Rs450.00       x3        Rs1350.00
+           bada           Choco Lavacake       Rs150.00       x9        Rs1350.00
+           bada         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+           bada             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs10100.00
+
+         Ananda            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         Ananda            Choco Brownie       Rs300.00       x5        Rs1500.00
+         Ananda         Chicken Shavarma       Rs650.00       x8        Rs5200.00
+         Ananda         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+         Subasg            Mutton Burger       Rs450.00       x6        Rs2700.00
+         Subasg            Salmon Samosa       Rs100.00       x8        Rs 800.00
+         Subasg         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+         Subasg                Croissant       Rs200.00       x3        Rs 600.00
+         Subasg                  Egg Bun       Rs100.00       x6        Rs 600.00
+         Subasg            Salmon Samosa       Rs100.00       x4        Rs 400.00
+         Subasg           Choco Lavacake       Rs150.00       x9        Rs1350.00
+         Subasg         Chicken Shavarma       Rs650.00       x1        Rs 650.00
+                                                                        ___________Rs8600.00
+
+           Bush            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           Bush             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+           Bush           Chicken Samosa       Rs150.00       x1        Rs 150.00
+           Bush            Mutton Burger       Rs450.00       x5        Rs2250.00
+                                                                        ___________Rs3500.00
+
+            Sew            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            Sew             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+            Sew            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            Sew             Jumbo Hotdog       Rs250.00       x4        Rs1000.00
+                                                                        ___________Rs2700.00
+
+             op            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             op             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs1100.00
+
+         sanath           Chicken Samosa       Rs150.00       x5        Rs 750.00
+         sanath         Chicken Shavarma       Rs650.00       x2        Rs1300.00
+         sanath             Jumbo Hotdog       Rs250.00       x1        Rs 250.00
+         sanath           Choco Lavacake       Rs150.00       x9        Rs1350.00
+         sanath            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         sanath            Choco Brownie       Rs300.00       x5        Rs1500.00
+                                                                        ___________Rs5750.00
+
+          Mashh            Salmon Samosa       Rs100.00       x6        Rs 600.00
+          Mashh             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+          Mashh           Chicken Samosa       Rs150.00       x5        Rs 750.00
+          Mashh         Chicken Shavarma       Rs650.00       x1        Rs 650.00
+          Mashh           Choco Lavacake       Rs150.00       x9        Rs1350.00
+          Mashh         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+                                                                        ___________Rs7100.00
+
+        nandana            Salmon Samosa       Rs100.00       x6        Rs 600.00
+        nandana             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+        nandana           Chicken Samosa       Rs150.00       x1        Rs 150.00
+                                                                        ___________Rs1250.00
+
+          supun            Salmon Samosa       Rs100.00       x6        Rs 600.00
+          supun             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+          supun         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+          supun            Salmon Samosa       Rs100.00       x4        Rs 400.00
+          supun             Jumbo Hotdog       Rs250.00       x5        Rs1250.00
+                                                                        ___________Rs4250.00
+
+              f            Salmon Samosa       Rs100.00       x6        Rs 600.00
+              f            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs1200.00
+
+          sunil            Salmon Samosa       Rs100.00       x6        Rs 600.00
+          sunil            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs1200.00
+
+             df            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             df            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs1200.00
+
+       samantha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+       samantha             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+       samantha           Chicken Samosa       Rs150.00       x8        Rs1200.00
+       samantha         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs3800.00
+
+           suha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           suha             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+           suha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs1700.00
+
+           kuha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           kuha             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+           kuha         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+                                                                        ___________Rs3050.00
+
+         Shahan            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         Shahan         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+         Shahan            Choco Brownie       Rs300.00       x4        Rs1200.00
+                                                                        ___________Rs3800.00
+
+         rashad           Chicken Samosa       Rs150.00       x6        Rs 900.00
+         rashad            Salmon Samosa       Rs100.00       x3        Rs 300.00
+         rashad           Chicken Burger       Rs400.00       x4        Rs1600.00
+                                                                        ___________Rs2800.00
+
+          rohan            Salmon Samosa       Rs100.00       x4        Rs 400.00
+          rohan            Mutton Burger       Rs450.00       x3        Rs1350.00
+          rohan         Chicken Shavarma       Rs650.00       x9        Rs5850.00
+          rohan            Choco Brownie       Rs300.00       x8        Rs2400.00
+                                                                        ___________Rs10000.00
+
+            lok           Choco Lavacake       Rs150.00       x4        Rs 600.00
+            lok         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+            lok           Chicken Burger       Rs400.00       x2        Rs 800.00
+                                                                        ___________Rs3350.00
+
+             sf            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             sf            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs1200.00
+
+            opa            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            opa             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs1100.00
+
+          saman            Salmon Samosa       Rs100.00       x6        Rs 600.00
+          saman         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+          saman             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs3100.00
+
+          laqal           Chicken Samosa       Rs150.00       x6        Rs 900.00
+          laqal             Jumbo Hotdog       Rs250.00       x1        Rs 250.00
+          laqal           Choco Lavacake       Rs150.00       x2        Rs 300.00
+          laqal         Chicken Sandwich       Rs250.00       x7        Rs1750.00
+                                                                        ___________Rs3200.00
+
+           unil           Chicken Samosa       Rs150.00       x6        Rs 900.00
+           unil             Jumbo Hotdog       Rs250.00       x1        Rs 250.00
+           unil            Mutton Burger       Rs450.00       x5        Rs2250.00
+           unil         Chicken Sandwich       Rs250.00       x8        Rs2000.00
+                                                                        ___________Rs5400.00
+
+         Dinesh           Chicken Samosa       Rs150.00       x6        Rs 900.00
+         Dinesh            Salmon Samosa       Rs100.00       x9        Rs 900.00
+         Dinesh           Choco Lavacake       Rs150.00       x7        Rs1050.00
+         Dinesh         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+         Dinesh            Mutton Burger       Rs450.00       x5        Rs2250.00
+         Dinesh         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+         Dinesh            Mutton Burger       Rs450.00       x1        Rs 450.00
+         Dinesh                  Egg Bun       Rs100.00       x5        Rs 500.00
+         Dinesh                   Iclair       Rs180.00       x9        Rs1620.00
+         Dinesh                Croissant       Rs200.00       x3        Rs 600.00
+         Dinesh             Garlic Bread       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs13670.00
+
+           sana            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           sana             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+           sana         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+           sana            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs3650.00
+
+        randika            Salmon Samosa       Rs100.00       x6        Rs 600.00
+        randika             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+        randika         Chicken Sandwich       Rs250.00       x12        Rs3000.00
+        randika            Salmon Samosa       Rs100.00       x6        Rs 600.00
+        randika                Croissant       Rs200.00       x3        Rs 600.00
+                                                                        ___________Rs5300.00
+
+          nimal         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+          nimal             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+          nimal            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs4350.00
+
+            nim            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            nim             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+            nim         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+                                                                        ___________Rs4350.00
+
+              m           Chicken Samosa       Rs150.00       x6        Rs 900.00
+              m            Salmon Samosa       Rs100.00       x3        Rs 300.00
+                                                                        ___________Rs1200.00
+
+           rana           Chicken Samosa       Rs150.00       x5        Rs 750.00
+           rana            Choco Brownie       Rs300.00       x8        Rs2400.00
+           rana         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+           rana            Salmon Samosa       Rs100.00       x3        Rs 300.00
+                                                                        ___________Rs4950.00
+
+           sana            Salmon Samosa       Rs100.00       x6        Rs 600.00
+           sana             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs1100.00
+
+           hasa            Choco Brownie       Rs300.00       x9        Rs2700.00
+           hasa         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+                                                                        ___________Rs4650.00
+
+            ran           Chicken Samosa       Rs150.00       x6        Rs 900.00
+            ran            Salmon Samosa       Rs100.00       x3        Rs 300.00
+                                                                        ___________Rs1200.00
+
+            sag            Salmon Samosa       Rs100.00       x4        Rs 400.00
+            sag         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+                                                                        ___________Rs2350.00
+
+             sa            Salmon Samosa       Rs100.00       x3        Rs 300.00
+                                                                        ___________Rs 300.00
+
+          Wimal           Choco Lavacake       Rs150.00       x4        Rs 600.00
+          Wimal         Chicken Shavarma       Rs650.00       x5        Rs3250.00
+          Wimal             Garlic Bread       Rs250.00       x3        Rs 750.00
+          Wimal     Saussage Pizza Slice       Rs250.00       x9        Rs2250.00
+          Wimal                   Iclair       Rs180.00       x3        Rs 540.00
+          Wimal     Saussage Pizza Slice       Rs250.00       x4        Rs1000.00
+          Wimal             Garlic Bread       Rs250.00       x1        Rs 250.00
+          Wimal      Seafood Pizza Slice       Rs300.00       x7        Rs2100.00
+          Wimal              Choco Donut       Rs180.00       x5        Rs 900.00
+          Wimal         Chicken Shavarma       Rs650.00       x4        Rs2600.00
+                                                                        ___________Rs14240.00
+
+            suj            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            suj             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+           sana           Choco Lavacake       Rs150.00       x6        Rs 900.00
+           sana             Jumbo Hotdog       Rs250.00       x6        Rs1500.00
+           sana             Jumbo Hotdog       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs3900.00
+
+             dd            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             dd             Jumbo Hotdog       Rs250.00       x0        Rs   0.00
+                                                                        ___________Rs 600.00
+
+            lop           Chicken Samosa       Rs150.00       x5        Rs 750.00
+            lop         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+            lop            Mutton Burger       Rs450.00       x1        Rs 450.00
+                                                                        ___________Rs3150.00
+
+            sed            Salmon Samosa       Rs100.00       x6        Rs 600.00
+            sed             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs1100.00
+
+             fd            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             fd             Jumbo Hotdog       Rs250.00       x6        Rs1500.00
+             fd         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs3600.00
+
+              7         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+              7            Salmon Samosa       Rs100.00       x0        Rs   0.00
+                                                                        ___________Rs1500.00
+
+             op            Mutton Burger       Rs450.00       x6        Rs2700.00
+             op             Jumbo Hotdog       Rs250.00       x5        Rs1250.00
+                                                                        ___________Rs3950.00
+
+          dsasa            Salmon Samosa       Rs100.00       x6        Rs 600.00
+          dsasa         Chicken Sandwich       Rs250.00       x3        Rs 750.00
+                                                                        ___________Rs1350.00
+
+             ae         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+             ae            Salmon Samosa       Rs100.00       x6        Rs 600.00
+             ae         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+                                                                        ___________Rs4050.00
+
+         Sanath            Salmon Samosa       Rs100.00       x6        Rs 600.00
+         Sanath            Mutton Burger       Rs450.00       x6        Rs2700.00
+         Sanath             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+                                                                        ___________Rs3800.00
+
+      saaantrha         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+      saaantrha            Salmon Samosa       Rs100.00       x6        Rs 600.00
+                                                                        ___________Rs2550.00
+
+       Susantha            Choco Brownie       Rs300.00       x8        Rs2400.00
+       Susantha         Chicken Sandwich       Rs250.00       x6        Rs1500.00
+       Susantha            Salmon Samosa       Rs100.00       x4        Rs 400.00
+       Susantha           Chicken Samosa       Rs150.00       x2        Rs 300.00
+                                                                        ___________Rs4600.00
+
+          Imash           Choco Lavacake       Rs150.00       x6        Rs 900.00
+          Imash            Choco Brownie       Rs300.00       x5        Rs1500.00
+          Imash         Chicken Shavarma       Rs650.00       x9        Rs5850.00
+          Imash           Choco Lavacake       Rs150.00       x5        Rs 750.00
+          Imash           Chicken Samosa       Rs150.00       x5        Rs 750.00
+          Imash         Chicken Shavarma       Rs650.00       x2        Rs1300.00
+                                                                        ___________Rs11050.00
+
+          Imash            Mutton Burger       Rs450.00       x3        Rs1350.00
+                                                                        ___________Rs1350.00
+
+          Nilan           Chicken Samosa       Rs150.00       x5        Rs 750.00
+          Nilan         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+          Nilan           Chicken Burger       Rs400.00       x2        Rs 800.00
+          Nilan             Choco Muffin       Rs160.00       x5        Rs 800.00
+                                                                        ___________Rs4300.00
+
+           Saan           Chicken Samosa       Rs150.00       x5        Rs 750.00
+           Saan         Chicken Shavarma       Rs650.00       x3        Rs1950.00
+           Saan            Mutton Burger       Rs450.00       x1        Rs 450.00
+                                                                        ___________Rs3150.00
+
+            dsd         Chicken Shavarma       Rs650.00       x6        Rs3900.00
+            dsd             Jumbo Hotdog       Rs250.00       x3        Rs 750.00
+            dsd            Mutton Burger       Rs450.00       x5        Rs2250.00
+            dsd         Chicken Sandwich       Rs250.00       x5        Rs1250.00
+            dsd             Jumbo Hotdog       Rs250.00       x2        Rs 500.00
+            dsd             Jumbo Hotdog       Rs250.00       x5        Rs1250.00
+                                                                        ___________Rs9900.00
+

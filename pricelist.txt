@@ -1,0 +1,21 @@
+         Chicken Burger           Rs400.00
+          Mutton Burger           Rs450.00
+           Jumbo Hotdog           Rs250.00
+         Chicken Samosa           Rs150.00
+          Salmon Samosa           Rs100.00
+       Chicken Shavarma           Rs650.00
+          Choco Brownie           Rs300.00
+         Choco Lavacake           Rs150.00
+       Chicken Sandwich           Rs250.00
+        Cheese Sandwich           Rs250.00
+                 Parata           Rs40.00
+       		Egg Bun           Rs100.00
+            Choco Donut           Rs180.00
+           Choco Muffin           Rs160.00
+    Chicken Pizza Slice           Rs300.00
+   Saussage Pizza Slice           Rs250.00
+    Seafood Pizza Slice           Rs300.00
+       		 Iclair           Rs180.00
+          	Cupcake           Rs150.00
+           Garlic Bread           Rs250.00
+              Croissant           Rs200.00

@@ -1,0 +1,24 @@
+Supplier Name: ABC Suppliers
+Contact Person: John Doe
+Contact Number: 123-456-7890
+Email: john@example.com
+Address: 123 Main Street, Cityville
+
+Supplier Name: XYZ Distributors
+Contact Person: Jane Smith
+Contact Number: 987-654-3210
+Email: jane@example.com
+Address: 456 Elm Street, Townsville
+
+Supplier Name: Food City
+Contact Person: Mr.Nishantha
+Contact Number: 0756328416
+Email: nishantha@yahoo.com
+Address: 32/1,Laker Round,Kurunegala
+
+Supplier Name: Jayantha
+Contact Person: 0787256341
+Contact Number: 0785426312
+Email: jayantha@rooster.com
+Address: 34/8,Wallawa,kurunegala
+
